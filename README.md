@@ -1,1 +1,1 @@
-# Pomodoro-Tkinter
+# Created a fun UI application using the tkinter package module. This application is for the people that are studying or doing any type of work really. The application tracks your minutes and let's you know when it's time to take a break. There's a small feature I added with the check marks, which means everytime you finish a work session it updates to the screen. If you use this app and want to change your work min its underneath the variable WORK_MIN 😃
